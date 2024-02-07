@@ -1,0 +1,19 @@
+{
+  "name": "quite",
+  "version": "0.0.0",
+  "description": "Quit your program in a fancy way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riley0122/quite.git"
+  },
+  "author": "riley0122",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riley0122/quite/issues"
+  },
+  "homepage": "https://github.com/riley0122/quite#readme"
+}
